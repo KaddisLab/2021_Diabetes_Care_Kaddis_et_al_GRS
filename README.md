@@ -1,0 +1,2 @@
+# 2021_Diabetes_Care_Kaddis_et_al_GRS
+Supplementary Information for Manuscript
